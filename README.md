@@ -6,7 +6,7 @@ Node.js and Javascript concepts.
 
 ## Features
 
-To complete the challenge, I needed to add the following funcionalities to the app, and pass all tests.
+To complete this challenge, I needed to add the following funcionalities to the app, and pass all tests.
 
 * ``POST /repositories``: This route should receive title, url, and techs in the request body and save the added github repository on a variable.
 * ``GET /repositories``: This route should list all saved repositories;
