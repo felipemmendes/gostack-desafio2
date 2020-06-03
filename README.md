@@ -1,5 +1,5 @@
 # Node.js 1
-A Node.js concepts challenge.
+Node.js and Javascript concepts.
 
 ### [Challenge guideline](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs)
 ### [Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)
