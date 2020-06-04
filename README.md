@@ -13,3 +13,8 @@ To complete this challenge, I needed to add the following funcionalities to the 
 * ``PUT /repositories/:id``: This route should let the edition of a saved repository with the url's id param;
 * ``DELETE /repositories/:id``: This route should delete the repository with the url's id param;
 * ``POST /repositories/:id/like``: This route should increase the number of likes of a repository;
+
+## This project uses
+
+* [Node.js](https://github.com/nodejs/node) - Node.js JavaScript runtime.
+* [Express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
